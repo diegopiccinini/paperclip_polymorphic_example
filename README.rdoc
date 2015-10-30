@@ -1,6 +1,7 @@
 == README
 
-This is an example for paperclip polimorphic software working!!!
+This is an example for paperclip polimorphic
+This is working software!!!
 
 Things you may want to cover:
 
